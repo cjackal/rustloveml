@@ -1,0 +1,1 @@
+jupyter nbconvert --to slides --theme dark --SlidesExporter.language_code=ko --SlidesExporter.reveal_theme=league --SlidesExporter.reveal_number=c/t --SlidesExporter.reveal_scroll=True index.ipynb
